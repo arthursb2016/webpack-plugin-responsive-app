@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-responsive-app",
+  "name": "webpack-plugin-responsive-app",
   "version": "1.0.0-beta.0",
   "description": "A Webpack plugin to handle your app responsiveness automatically",
   "main": "dist/index.cjs.js",

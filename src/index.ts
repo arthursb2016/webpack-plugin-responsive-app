@@ -1,5 +1,5 @@
 import { Compiler, Compilation, sources } from 'webpack'
-import { handleCss, handleJs, isDefaultEntryPoint, optionDefaults, Options } from '../core'
+import { handleCss, handleJs, isDefaultEntryPoint, optionDefaults, Options } from 'responsive-app'
 
 class WebpackResponsiveApp {
   private options: Options;
